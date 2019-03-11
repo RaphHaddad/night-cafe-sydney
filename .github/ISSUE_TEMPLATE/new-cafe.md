@@ -11,6 +11,6 @@ assignees: ''
 
 **Does it serve DECENT coffee?**
 
-**Does it stay open beyond 4pm, into the evening, and night?**
+**Does it stay open beyond 4pm, into the evening, and the night?**
 
 **What is the Google Maps link?**
